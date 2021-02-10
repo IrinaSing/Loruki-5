@@ -1,5 +1,14 @@
 # Loruki-website
 
+## Table of contents
+
+[Introduction](#Introduction)  
+[Goals](#Goals)  
+[Stages](#Stages)  
+[Technologies and software](#Technologies)  
+[Links](#Links)  
+[Screenshots](#Screenshots)
+
 ## Introduction
 
 Our team learns **how to plan and collaborate** working on this repository.
