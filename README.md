@@ -43,4 +43,4 @@ Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) 
 
 Screenshot from the original website:
 
-![OiginalWeb](/Pictures/Screenshot-Loruki.jpg)
+![OiginalWeb](/Pictures/loruki-small.jpg)
