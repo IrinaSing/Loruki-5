@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-[Introduction](#Introduction)  
-[Goals](#Goals)  
-[Stages](#Stages)  
-[Technologies](#Technologies)  
-[Links](#Links)  
-[Screenshots](#Screenshots)
+- [Introduction](#Introduction)
+- [Goals](#Goals)
+- [Stages](#Stages)
+- [Technologies](#Technologies)
+- [Links](#Links)
+- [Screenshots](#Screenshots)
 
 ## Introduction
 
