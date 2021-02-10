@@ -1,4 +1,4 @@
-## Free time of participants for team-calls in [![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackyourfuturebe.slack.com/archives/C01HUQHUJGP)
+## Availability for video calls in [![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackyourfuturebe.slack.com/archives/C01HUQHUJGP)
 
 | Day       | OksanaShulha |  IrinaSing  | Enakhimionsam | NasratullahHussaini | radwan-m |              Cyngyz |
 | :-------- | :----------: | :---------: | :-----------: | :-----------------: | :------: | ------------------: |
