@@ -5,7 +5,7 @@
 [Introduction](#Introduction)  
 [Goals](#Goals)  
 [Stages](#Stages)  
-[Technologies and software](#Technologies)  
+[Technologies](#Technologies)  
 [Links](#Links)  
 [Screenshots](#Screenshots)
 
@@ -28,7 +28,7 @@ Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) 
 - [ ] Development
 - [ ] Retrospective
 
-## Technologies and software
+## Technologies
 
 - GitHub
 - VSCode
