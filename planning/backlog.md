@@ -1,49 +1,33 @@
-> this backlog does is just a template, it does not have the user stories for All About Trees
-
 # Backlog
-
-A collection of user stories you can choose from. Stories inside of each priority level are not necessarily in order. You and your team will decide when to develop each story by drawing out your [Story Sequencing](#story-sequencing).
 
 ## Must-Haves
 
-are necessary for basic usability:
+> these are necessary for basic usability
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
+- As a User, I want
+  - to be able to switch between the navigation menu in the top right corner such as "Home  Features  Docs"
+  - to understand what is this site about
+  - to request this product I should be able to fill out the form and send my contact info such as "Name  Company Name  Email" 
+  - to find an appropriate platform for my work. I read about **Loruki** (description) to figure out if I want to have this.  
+  - to know where can I **download it**.  
+  - to see in which page I am with help of navigation bar
+  - this website to look **pretty and neat**
+  
+  
+  ## Should-Haves
+  
+> these user stories will complete the user experience, but are not necessary
 
-## Should-Haves
+- As a User, I want
+  - request a demo I want to receive a confirm email.
+  - want to read **how to install** Loruki.  
 
-will complete the user experience, but are not necessary:
+  ## Could-Haves
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
+> would be really cool ... if there's time
 
-## Could-Haves
-
-would be really cool ... if there's time:
-
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
-
----
-
-## Story Sequencing
-
-([diagram source](https://excalidraw.com/#json=5492536709742592,eehelCbxb4yj2n5D3cTn1g))
-
-![story sequencing graph](./story-sequencing-graph.svg)
+- As a User, I want
+  - to choose different languages (Ru, Fr, Nl etc)
+  - to be able to contact technical support from the website if I have a problem or question 
+  - to know **which program languages** Loruki supports
+  - to **follow** your news on Instagram or Twitter or Facebook
