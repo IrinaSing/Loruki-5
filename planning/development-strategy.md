@@ -41,7 +41,7 @@
 ## Request form
 
 ### HTML
-### CSS (_label_)
+### CSS 
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### HTML
 
-### CSS (_label_)
+### CSS 
 
 ## Section 3
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Finishing Touches (_milestone_)
+## Finishing Touches 
 
 **As a perfectionist, I want everything perfect :)**
 
