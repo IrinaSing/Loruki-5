@@ -1,34 +1,47 @@
-## Availability for video calls in ![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-| Day       | OksanaShulha |  IrinaSing  | Enakhimionsam | NasratullahHussaini | radwan-m |              Cyngyz |
-| :-------- | :----------: | :---------: | :-----------: | :-----------------: | :------: | ------------------: |
-| Monday    | after 13:00  | after 12:00 |  after 10:00  |       all day       |          | between 12.00-14.00 |
-| Tuesday   |   all day    | after 15:00 |  after 14:00  |       all day       |          |         after 18:00 |
-| Wednesday | after 13:00  | after 12:00 |  after 10:00  |     after 13:00     |          |         after 18:00 |
-| Thursday  |   all day    | after 12:00 |     busy      |       all day       |          | between 12.00-14.00 |
-| Friday    |   all day    |   all day   |     busy      |       all day       |          |         after 18:00 |
-
 # Planning
-
 ---
 
 ## Communication Schedule
 
-When and how often will you meet? what will you discuss at these meetings? ...
+| Day       | Time      | How          | The topic of discussion                 |
+| --------- | :-------: | :----------: | --------------------------------------  |
+| Wednesday |   18:00   |  Slack-call  | 1.Setup 2.Project-definition 3.Backlog  |
+| Thursday  |   16:00   |  Slack-call  | 4.Development-strategy 5.Project-board  |
+| Friday    |   16:00   |  Slack-call  | 6.Development 7.Retrospective           |
+| Saturday  |   16:00   |  Slack-call  | Remaining issues                        |
+
 
 ## Communication Channels
 
-As a team come up with a plan for how to use each communication channel. What will you discuss on each one? How often will you get in touch on each channel? Below is a starter list of different ways to communicate, go ahead and rewrite this list so it works for your team:
+### Communication channels and how often will we get in touch on each channel
 
-- **Planning Documents**:
-- **Slack Messaging**:
-- **Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Loruki-Draft repo**: as needed
+- **Slack Messaging**: every day
+- **Slack Video Calls**: 4 times per week 
+- **Issues**: as needed
+- **Pull Requests**: every day
+
 
 ## Availability
 
-How many hours does everyone have? and when are you generally available?
+### Availability for video calls in ![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+| Day       | OksanaShulha |  IrinaSing  | Enakhimionsam | NasratullahHussaini |        Cyngyz         |      radwan-m       |
+| --------- | :----------: | :---------: | :-----------: | :-----------------: | :-------------------: | ------------------- |
+| Monday    | after 13:00  | after 12:00 |  after 10:00  |       all day       |  between 12:00-14:00  |                     |
+| Tuesday   |   all day    | after 15:00 |  after 14:00  |       all day       |      after 18:00      |                     |
+| Wednesday | after 13:00  | after 12:00 |  after 10:00  |     after 13:00     |      after 18:00      |                     |
+| Thursday  |   all day    | after 12:00 |     busy      |       all day       |  between 12:00-14:00  |                     |
+| Friday    |   all day    |   all day   |     busy      |       all day       |      after 18:00      |                     |
+
+### How many hours everyone has per day:
+* OksanaShulha:        *5h*;
+* IrinaSing:           *6h*;
+* Enakhimionsam:       *5h*;
+* NasratullahHussaini: *4h*;
+* Cyngyz:              *3h*;
+* radwan-m:
+
 
 ## Asking for Help
 
