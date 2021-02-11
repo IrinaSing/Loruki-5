@@ -1,111 +1,72 @@
 > You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
 
-# All About Trees
-
-A simple little website about trees.
-
+# Loruki
 ---
 
 ## Wireframe
 
-![wireframe](./wireframe.gif)
+![wireframe](https://github.com/IrinaSing/Loruki-5/blob/main/Pictures/wireframe.png)
 
 ---
 
-## Site Title (_milestone_)
+## Header
 
-### HTML (_label_)
+### HTML
 
-- A website title for the tab (in the header of the document) (_issue_)
-- A title in the web page (_issue_)
-  - [ ] uses a class "centered" (_issue checklist_)
 
-### CSS (_label_)
+### CSS 
 
-- "centered" class (_issue_)
-  - [ ] centers an element horizontally along the page
 
 ---
 
-## Introduction (_milestone_)
+## Navigation bar
 
-### HTML (_label_)
+### HTML 
 
-- A section with some fascinating words (_issue_)
-  - [ ] uses a "fascinating-words" class
-  - [ ] is a section element
 
-### CSS (_label_)
+### CSS 
 
-- the "fascinating-words" class (_issue_)
+
 
 ---
 
-## Main Text (_milestone_)
+## Section 1
 
-### HTML (_label_)
+### HTML 
 
-- An article filled with wonder and interesting things (_issue_)
-  - [ ] uses and "interesting-things" class
 
-### CSS (_label_)
+### CSS 
+---
 
-- the "interesting-things" class (_issue_)
+## Request form
+
+### HTML
+### CSS 
 
 ---
 
-## Further Reading (_milestone_)
+## Section 2
 
-### HTML (_label_)
+### HTML
 
-- An aside with a little text and a link for further reading (_issue_)
-  - [ ] a link
-  - [ ] the "aside-info" class
-  - [ ] the "aside-text" class
+### CSS 
 
-### CSS (_label_)
+## Section 3
 
-- "aside-info" class (_issue_)
-- "aside-text" class (_issue_)
+### HTML 
 
----
+### CSS 
 
-## Site Navigation (_milestone_)
+## Section 4
 
-### HTML (_label_)
+## Section 5
 
-- A navbar of site content links, clearly divided from the rest of the page (_issue_)
-  - [ ] uses a "spaced-items" class
-  - [ ] uses a "bottom-divider" class
-- id's on all the site content containers (_issue_)
-  - [ ] "summary-info"
-  - [ ] "main-info"
-  - [ ] "extra-info"
+## Footer
 
-### CSS (_label_)
-
-- the "spaced-items" class (_issue_)
-- the "bottom-divider" class (_issue_)
 
 ---
 
-## Contact Info (_milestone_)
-
-**As a site visitor, I want to know how I can contact the author so that I can make a new friend**
-
-### HTML (_label_)
-
-- A separated footer with some contact links (_issue_)
-  - [ ] uses the "spaced-items" class
-  - [ ] uses the "top-divider" class
-
-### CSS (_label_)
-
-- the "top-divider" class (_issue_)
-
----
-
-## Finishing Touches (_milestone_)
+## Finishing Touches 
 
 **As a perfectionist, I want everything perfect :)**
 
