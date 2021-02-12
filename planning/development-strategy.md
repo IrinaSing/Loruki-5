@@ -30,9 +30,19 @@
 ## Section 1
 
 ### HTML
+- [ ] creat first sectin with class <_class_>
+- [ ] creat multiple <_div_> with classes 
+- [ ] creat <_form_> inside same section
+- [ ] creart <_input_> and <_label_>
 
 ### CSS
-
+- [ ] showcase <_class_> 
+- [ ] showcase <_h1_>
+- [ ] showcase <_p_>
+- [ ] showcase <_grid_>
+- [ ] showcase <_text_>
+- [ ] showcase <_form_> <_input_>
+- [ ] showcase <_befor_> <_after_>
 ---
 
 ## Request form
@@ -75,13 +85,54 @@ Instruction how to install Loruki with CLI with some short explanations.
 
 ### CSS
 
-- [ ] use _columns_ and _rows_ for the class _grid_.
 
-## Section 4
+## Section 4 (Cloud)
 
-## Section 5
+Section about Loruki cloud hosting
+
+### HTML
+
+- [ ] Section with class _cloud_
+- [ ] <_div_> class _container grid_
+- [ ] <_div_> class _text-center_
+- [ ] h2 header
+- [ ] p - text
+- [ ] btn
+- [ ] img
+
+### CSS
+
+- [ ] grid-template-columns
+
+## Section 5 (Languages)
+
+Section about Loruki supported languages
+
+### HTML
+
+- [ ] Section with class _languages_
+- [ ] <_h2_> class _text-center_
+- [ ] <_div_> class _container flex_
+- [ ] 7 cards with h4 headers
+
+### CSS
+
+- [ ] placing cards + hover
 
 ## Footer
+
+### HTML
+
+- [ ] Footer with class _footer bg-dark py-5_.
+- [ ] <_div_> class _container grid grid-3_
+- [ ] h1 header
+- [ ] p - text
+- [ ] nav menu
+- [ ] social links
+
+### CSS
+
+- [ ] placing content + margin
 
 ---
 
