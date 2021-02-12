@@ -18,13 +18,13 @@ More information about our planning [here](https://github.com/IrinaSing/Loruki-5
 
 Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) together. It's not necessary to have a perfect and complex code or to make the website 100% looking alike. Setting up a proper workflow is more important.
 
-## Stages/ Objectives
+## Stages
 
 - [x] Setup
-- [ ] Project Definition
+- [X] Project Definition
 - [X] Backlog
-- [ ] Development Strategy
-- [ ] Project Board
+- [X] Development Strategy
+- [X] Project Board
 - [ ] Development
 - [ ] Retrospective
 

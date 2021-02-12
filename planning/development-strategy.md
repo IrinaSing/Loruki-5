@@ -45,13 +45,6 @@
 - [ ] showcase <_befor_> <_after_>
 ---
 
-## Request form
-
-### HTML
-
-### CSS
-
----
 
 ## Section 2 (Statistics)
 
