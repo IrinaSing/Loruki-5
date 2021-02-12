@@ -1,6 +1,7 @@
 > You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
 
 # Loruki
+
 ---
 
 ## Wireframe
@@ -9,53 +10,72 @@
 
 ---
 
-## Header
+## Header (navigation bar)
 
 ### HTML
 
+- [ ] Create <_div_> navbar.
+- [ ] <_div_> with class "container flex" for logo.
+- [ ] <_nav_> with navigation links using <_ul_> and <_li_>.
 
-### CSS 
+### CSS
 
-
----
-
-## Navigation bar
-
-### HTML 
-
-
-### CSS 
-
-
+- [ ] navbar <_ul_> display flex
+- [ ] _underline_ for links when hover and currently on the page.
+- [ ] colors for background, links
+- [ ] for _flex_ - justify-content
 
 ---
 
 ## Section 1
 
-### HTML 
+### HTML
 
+### CSS
 
-### CSS 
 ---
 
 ## Request form
 
 ### HTML
-### CSS 
+
+### CSS
 
 ---
 
-## Section 2
+## Section 2 (Statistics)
+
+Section about Loruki statistics
 
 ### HTML
 
-### CSS 
+- [ ] Section with class _stats_.
+- [ ] <_div_> class "container".
+- [ ] H3 header.
+- [ ] <_div_> class "grid grid-3 text-center my-4" to include 3 individual divs.
+- [ ] Individual divs: Deployments, Published, Projects.
+- [ ] Inside of each of 3 divs: <_i_> - icon, <_h3_>- actual info (numbers), <_p_> - text (name of section).
 
-## Section 3
+### CSS
 
-### HTML 
+- [ ] animation and padding for section.
+- [ ] font-size, font-weight for h3, p.
 
-### CSS 
+## Section 3 (CLI)
+
+Instruction how to install Loruki with CLI with some short explanations.
+
+### HTML
+
+- [ ] <_section_> with class _cli_.
+- [ ] <_div_> class "container".
+- [ ] image of CLI.
+- [ ] 2 _divs_ with class "card".
+- [ ] h3 commentaries inside cards.
+
+### CSS
+
+- [ ] use _columns_ and _rows_ for the class _grid_.
 
 ## Section 4
 
@@ -63,10 +83,9 @@
 
 ## Footer
 
-
 ---
 
-## Finishing Touches 
+## Finishing Touches
 
 **As a perfectionist, I want everything perfect :)**
 
