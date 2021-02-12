@@ -104,7 +104,7 @@ Section about Loruki supported languages
 
 ### HTML
 
-- [ ] Footer with class _footer bg-dark py-5_.
+- [ ] Footer with class _footer bg-dark py-5_
 - [ ] <_div_> class _container grid grid-3_
 - [ ] h1 header
 - [ ] p - text
