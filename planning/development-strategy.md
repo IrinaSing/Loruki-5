@@ -30,9 +30,19 @@
 ## Section 1
 
 ### HTML
+- [ ] creat first sectin with class <_class_>
+- [ ] creat multiple <_div_> with classes 
+- [ ] creat <_form_> inside same section
+- [ ] creart <_input_> and <_label_>
 
 ### CSS
-
+- [ ] showcase <_class_> 
+- [ ] showcase <_h1_>
+- [ ] showcase <_p_>
+- [ ] showcase <_grid_>
+- [ ] showcase <_text_>
+- [ ] showcase <_form_> <_input_>
+- [ ] showcase <_befor_> <_after_>
 ---
 
 ## Request form
@@ -63,9 +73,18 @@ Section about Loruki statistics
 
 ## Section 3 (CLI)
 
+Instruction how to install Loruki with CLI with some short explanations.
+
 ### HTML
 
+- [ ] <_section_> with class _cli_.
+- [ ] <_div_> class "container".
+- [ ] image of CLI.
+- [ ] 2 _divs_ with class "card".
+- [ ] h3 commentaries inside cards.
+
 ### CSS
+
 
 ## Section 4 (Cloud)
 
