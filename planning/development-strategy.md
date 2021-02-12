@@ -43,13 +43,25 @@
 
 ---
 
-## Section 2
+## Section 2 (Statistics)
+
+Section about Loruki statistics
 
 ### HTML
 
+- [ ] Section with class _stats_.
+- [ ] <_div_> class "container".
+- [ ] H3 header.
+- [ ] <_div_> class "grid grid-3 text-center my-4" to include 3 individual divs.
+- [ ] Individual divs: Deployments, Published, Projects.
+- [ ] Inside of each of 3 divs: <_i_> - icon, <_h3_>- actual info (numbers), <_p_> - text (name of section).
+
 ### CSS
 
-## Section 3
+- [ ] animation and padding for section.
+- [ ] font-size, font-weight for h3, p.
+
+## Section 3 (CLI)
 
 ### HTML
 
