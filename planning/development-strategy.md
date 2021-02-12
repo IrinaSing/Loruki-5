@@ -30,9 +30,19 @@
 ## Section 1
 
 ### HTML
+- [ ] creat first sectin with class <_class_>
+- [ ] creat multiple <_div_> with classes 
+- [ ] creat <_form_> inside same section
+- [ ] creart <_input_> and <_label_>
 
 ### CSS
-
+- [ ] showcase <_class_> 
+- [ ] showcase <_h1_>
+- [ ] showcase <_p_>
+- [ ] showcase <_grid_>
+- [ ] showcase <_text_>
+- [ ] showcase <_form_> <_input_>
+- [ ] showcase <_befor_> <_after_>
 ---
 
 ## Request form
