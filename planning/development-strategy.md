@@ -1,6 +1,7 @@
 > You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
 
 # Loruki
+
 ---
 
 ## Wireframe
@@ -9,39 +10,36 @@
 
 ---
 
-## Header
+## Header (navigation bar)
 
 ### HTML
 
+- [ ] Create <_div_> navbar.
+- [ ] <_div_> with class "container flex" for logo.
+- [ ] <_nav_> with navigation links using <_ul_> and <_li_>.
 
-### CSS 
+### CSS
 
-
----
-
-## Navigation bar
-
-### HTML 
-
-
-### CSS 
-
-
+- [ ] navbar <_ul_> display flex
+- [ ] _underline_ for links when hover and currently on the page.
+- [ ] colors for background, links
+- [ ] for _flex_ - justify-content
 
 ---
 
 ## Section 1
 
-### HTML 
+### HTML
 
+### CSS
 
-### CSS 
 ---
 
 ## Request form
 
 ### HTML
-### CSS 
+
+### CSS
 
 ---
 
@@ -49,13 +47,13 @@
 
 ### HTML
 
-### CSS 
+### CSS
 
 ## Section 3
 
-### HTML 
+### HTML
 
-### CSS 
+### CSS
 
 ## Section 4
 
@@ -63,10 +61,9 @@
 
 ## Footer
 
-
 ---
 
-## Finishing Touches 
+## Finishing Touches
 
 **As a perfectionist, I want everything perfect :)**
 
