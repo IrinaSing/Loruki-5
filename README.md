@@ -22,7 +22,7 @@ Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) 
 
 - [x] Setup
 - [ ] Project Definition
-- [ ] Backlog
+- [X] Backlog
 - [ ] Development Strategy
 - [ ] Project Board
 - [ ] Development
