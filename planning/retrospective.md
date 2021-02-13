@@ -33,7 +33,7 @@ Our Project Board is similar to our Development Strategy. Everything that we pla
   - using the `help-wanted` label
 -->
 
-- Every single day we had comunication about our project and we are agree to keep doing this.
+- Every single day we had communication about our project and we are agree to keep doing this.
 - Helping each other.
 
 ## Start Doing
