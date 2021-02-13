@@ -25,8 +25,8 @@ Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) 
 - [X] Backlog
 - [X] Development Strategy
 - [X] Project Board
-- [ ] Development
-- [ ] Retrospective
+- [X] Development
+- [X] Retrospective
 
 ## Technologies
 
