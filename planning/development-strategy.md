@@ -6,7 +6,7 @@
 
 ## Wireframe
 
-![wireframe](https://github.com/IrinaSing/Loruki-5/blob/main/Pictures/wireframe.png)
+![wireframe](https://github.com/IrinaSing/Loruki-5/blob/main/Images/wireframe.png)
 
 ---
 
