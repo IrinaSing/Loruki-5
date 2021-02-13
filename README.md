@@ -52,4 +52,4 @@ Our goal is to build a website [Loruki](https://zen-carson-c10c9f.netlify.app/) 
 
 Screenshot from the original website:
 
-![OiginalWeb](/images/loruki-small.jpg)
+![OiginalWeb](/Images/loruki-small.jpg)
