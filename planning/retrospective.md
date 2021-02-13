@@ -6,7 +6,8 @@
   building something very different from your plan is not a bad thing!
   what counts is that you learn from your mistakes and make a better plan next time.
 -->
-Our Project Board was similar to our Development Strategy. Everything what we planed was done!
+
+Our Project Board is similar to our Development Strategy. Everything that we planed was done!
 
 ## Stop Doing
 
@@ -18,7 +19,8 @@ Our Project Board was similar to our Development Strategy. Everything what we pl
   - pushing changes directly to master/main branch
   - claiming more issues at once than you can finish
 -->
-We have better to plan, because our planning was not good. We started to late on Wednesday and not everybody was included.
+
+- We had a late start on Wednesday. We have to plan better and to start as soon as possible so everybody could adapt their schedules.
 
 ## Continue Doing
 
@@ -30,7 +32,9 @@ We have better to plan, because our planning was not good. We started to late on
   - making small, well-named commits
   - using the `help-wanted` label
 -->
-Every single day we had comunication about our project and we agree to keep doing these.
+
+- Every single day we had comunication about our project and we are agree to keep doing this.
+- Helping each other.
 
 ## Start Doing
 
@@ -42,7 +46,12 @@ Every single day we had comunication about our project and we agree to keep doin
   - use @mentions more often
   - use the github integration in slack. /github
 -->
-To start in time, to work with all members together. Don't hesitate to ask for help! To learn what you have missed , so be able to reach the same level with other group members.
+
+- To start on time.
+- To work with all members together.
+- Don't hesitate to ask for help!
+- To learn what you have missed to be able to keep up with other group members.
+- To notify others asap if you can not participate in a call/to finish the task on time.
 
 ## Lessons Learned
 
@@ -50,4 +59,6 @@ To start in time, to work with all members together. Don't hesitate to ask for h
   what cool things or general lessons has your team learned?
   This can be about anything! code, collaboration, git, github, ...
 -->
-We learn a lot such as code, collaboration, git, github =)
+
+- We learned a lot, such as: code, collaboration, git, github =)
+- Planning is very important.
