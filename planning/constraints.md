@@ -28,6 +28,7 @@ It is difficult for us to find time for meetings and discussionds suitable for e
 - **Copying code** from original repo is acceptable, as far as there is not much time for the project.
 - **Skipping** some sections of the website that are unnesassary is ok. No or minimum Java-script due to lack of knowledge.
 - **One approval** is enough for pull request too speed up the workflow, because there are not always people available for rewieving.
+- **One html page** out of 3 pages.
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
